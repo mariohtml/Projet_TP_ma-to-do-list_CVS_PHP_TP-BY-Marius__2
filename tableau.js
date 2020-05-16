@@ -1,7 +1,9 @@
 function maFunction1() {
 					document.getElementById("click1").innerHTML = "Ici vous pouvez renseigner les informations qui serons ajouté à la liste des Taches... Alors lachez Vous !!!";
 					}
-
+function maFunction3() {
+					document.getElementById("click1").innerHTML = "Ici vous pouvez supprimer les entrées de la liste des Taches...!!!";
+					}
 
 
 

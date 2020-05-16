@@ -17,7 +17,7 @@
 				<!--<form action="scriptlist.php" method="get">-->
 					<input  type="button" onClick="" onMouseOver="maFunction2()" name="List" value="List" style="width:100px; height:40px; border: 3px solid #00bfff; border-radius: 8px; margin-right: 80px;">
 					<input type="button" onClick="window.location.href='tableau_cvs_ add.html'" name="ADD" value="ADD" style="width:100px; height:40px; border: 3px solid #00bfff; border-radius: 8px; margin-right: 80px;">
-					<input type="reset" name="Remove" value="Remove"style="width:100px; height:40px; border: 3px solid #00bfff; border-radius: 8px;">
+					<input type="reset" onClick="window.location.href='Remove.html.php'"  name="Remove" value="Remove"style="width:100px; height:40px; border: 3px solid #00bfff; border-radius: 8px;">
 				</form>
 				</div>
 				
